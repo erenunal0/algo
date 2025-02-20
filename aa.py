@@ -3,3 +3,4 @@ def tri_area(base, height):
 	return area
 a=int(input("Taban Değeri:"))
 print(tri_area(a,b))
+a=3+5
